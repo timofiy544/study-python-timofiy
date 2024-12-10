@@ -1,5 +1,6 @@
 num_str = 125
 num_str = str(num_str)
+print(type(num_str))
 
 message = 'Hi, my name is Python!'
 message = message.replace('y', 'o')
